@@ -2,4 +2,8 @@ to bedzie dokument do pracy
 
 def hello(name):
 return "Hello"+str(name)
+
+def odejmi(a,b):
+return a-b
+
 print ("hello")
