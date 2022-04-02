@@ -1,3 +1,5 @@
 to bedzie dokument do pracy
 
+def hello(name):
+return "Hello"+str(name)
 print ("hello")
