@@ -1,4 +1,4 @@
-to bedzie dokument do pracy
+#to bedzie dokument do pracy
 
 def hello(name):
 return "Hello"+str(name)
@@ -6,4 +6,11 @@ return "Hello"+str(name)
 def odejmi(a,b):
 return a-b
 
-print ("hello")
+def dodaj(a,b):
+ wynik = float(a)+float(b)
+return wynik
+
+pierwsza=input()
+druga= input()
+
+print(dodaj(pierwsza, druga))
