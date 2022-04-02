@@ -1,5 +1,5 @@
 Autor:Dominika Staniak
-Data: 02.04.2022
+Data: 02.04.2022r.
 
 
 To jest repozytorium testowe z Inżynierii Oprogramowania
